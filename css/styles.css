@@ -21,3 +21,7 @@ h2{
   font-weight: <weight>;
   font-style: normal;
 }
+img {
+		align-items: center;
+		width: 100%;
+	}
