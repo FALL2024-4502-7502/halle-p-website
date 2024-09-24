@@ -1,17 +1,6 @@
 body{
 	background-color:#6c936c;
 }
-}
-
-.flexible {
-	display: flex;
-	flex-direction: column;
-}
-
-.flex1 {
-	display: flex;
-	justify-content: center;
-}
 
 title{
 .poppins-thin {
@@ -19,20 +8,3 @@ title{
   font-weight: 100;
   font-style: normal;
 }
-h1{
-.merriweather-regular {
-  font-family: "Merriweather", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-h2{
-.quicksand-<uniquifier> {
-  font-family: "Quicksand", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-}
-img {
-		align-items: center;
-		width: 100%;
-	}
