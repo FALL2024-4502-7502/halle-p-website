@@ -1,6 +1,18 @@
 body{
 	background-color:#6c936c;
 }
+}
+
+.flexible {
+	display: flex;
+	flex-direction: column;
+}
+
+.flex1 {
+	display: flex;
+	justify-content: center;
+}
+
 title{
 .poppins-thin {
   font-family: "Poppins", sans-serif;
