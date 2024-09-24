@@ -1,16 +1,3 @@
-body{
+body {
 	background-color:#6c936c;
 }
-
-h1{
-	font-family: 'Roboto', sans-serif;
-}
-
-#container{
-	width: 90%;
-	background-color:#6c6c93;
-	margin: 0 auto;
-}
-#nav{
-	padding: 1;
-	list-style-type: none;
