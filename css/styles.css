@@ -24,3 +24,6 @@ font-family: "Roboto Slab", serif;
   font-weight: <weight>;
   font-style: normal;
 }
+ul {
+  list-style-type: none;
+}
