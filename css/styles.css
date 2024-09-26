@@ -1,7 +1,3 @@
-body {
-	background-color:#6c936c;
-padding: 1em;
-}
 h1{
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
@@ -26,4 +22,5 @@ font-family: "Roboto Slab", serif;
 }
 ul {
   list-style-type: none;
+}
 }
