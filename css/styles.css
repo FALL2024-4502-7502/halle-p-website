@@ -5,11 +5,6 @@ body {
 	background-color:#6c936c;
 padding: 1em;
 }
-#nav {
-    position: relative;
-    left: -90px;
-    background-color: #fffdd0;
-}
 h1{
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
