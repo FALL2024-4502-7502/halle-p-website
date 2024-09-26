@@ -1,3 +1,6 @@
+/*start of media queries*/
+@media screen and (max-width: 500px){
+
 body {
 	background-color:#6c936c;
 padding: 1em;
@@ -21,3 +24,5 @@ h3{
 ul {
   list-style-type: none;
 }
+}
+.picture-centered-text 
