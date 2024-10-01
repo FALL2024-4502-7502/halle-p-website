@@ -1,16 +1,29 @@
 body{
-	background-color:#6c936c;
+background-color: #82b66c;
 }
-
 h1{
-	font-family: 'Roboto', sans-serif;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
-
-#container{
-	width: 90%;
-	background-color:#6c6c93;
-	margin: 0 auto;
+h2{
+ font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
-#nav{
-	padding: 1;
-	list-style-type: none;
+h3{
+ font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+p{
+font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+ul {
+  list-style-type: none;
+}
+}
