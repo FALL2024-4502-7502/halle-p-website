@@ -1,6 +1,17 @@
 body{
 background-color: #f2ce79;
 }
+
+main {
+  width: 90%;
+  max-width: 1000px;
+  background: #FFF;
+  border-radius: 1rem;
+  padding: 1rem 2rem;
+  box-sizing: border-box;
+  margin: 1rem auto;
+}
+
 h1{
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
@@ -25,5 +36,8 @@ font-family: "Roboto Slab", serif;
 }
 ul {
   list-style-type: none;
+
+
+  
 }
 }
