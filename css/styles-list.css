@@ -11,6 +11,14 @@ main {
   box-sizing: border-box;
   margin: 1rem auto;
 }
+nav {
+  color: #E3AD16;
+  background-color: #000000;
+  padding: 0;
+  display: block;
+  margin: 0;
+  border-bottom: 3px solid #FFF;
+}
 
 h1{
   font-family: "Playfair Display", serif;
