@@ -19,6 +19,13 @@ nav {
   margin: 0;
   border-bottom: 3px solid #FFF;
 }
+nav li, nav li a {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 h1{
   font-family: "Playfair Display", serif;
