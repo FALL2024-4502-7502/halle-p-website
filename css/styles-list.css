@@ -29,6 +29,15 @@ nav li, nav li a {
   justify-content: center;
   align-items: center;
 }
+nav ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  nav li {
+    width: 50%;
+  }
 
 h1{
   font-family: "Playfair Display", serif;
