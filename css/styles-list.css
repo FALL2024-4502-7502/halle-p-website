@@ -64,8 +64,11 @@ font-family: "Roboto Slab", serif;
 ul {
   list-style-type: none;
 }
-@media (min-width: 555px) {
-
+/*start of media queries*/
+@media screen and (min-width: 555px) {
+body {
+  background-color: #f57f45
+  }
   nav ul {
     display: flex;
     flex-direction: row;
@@ -76,7 +79,7 @@ ul {
     width: 50%;
   }
 
-@media (min-width: 800px) {
+@media screen and (min-width: 800px) {
 
   nav li {
     width: 25%;
