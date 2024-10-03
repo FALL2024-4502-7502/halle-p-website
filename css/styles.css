@@ -2,6 +2,15 @@ body{
 background-color: #82b66c;
 }
 
+main {
+  width: 90%;
+  max-width: 1000px;
+  background: #FFF;
+  border-radius: 1rem;
+  padding: 1rem 2rem;
+  box-sizing: border-box;
+  margin: 1rem auto;
+
 nav {
   color: #FFF;
   background-color: #000000;
