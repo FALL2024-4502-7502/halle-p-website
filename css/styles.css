@@ -2,6 +2,34 @@ body{
 background-color: #82b66c;
 }
 
+nav {
+  color: #FFF;
+  background-color: #000000;
+  padding: 0;
+  display: block;
+  margin: 0;
+  border-bottom: 3px solid #FFF;
+}
+nav a {
+  color: #FFF;
+}
+nav li, nav li a {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+nav ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  nav li {
+    width: 50%;
+  }
+
 h1{
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
