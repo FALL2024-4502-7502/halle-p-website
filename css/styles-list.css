@@ -80,7 +80,9 @@ body {
   }
 
 @media screen and (min-width: 800px) {
-
+body {
+  background-color: #fac8f5
+  }
   nav li {
     width: 25%;
 }
