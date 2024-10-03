@@ -1,5 +1,5 @@
 body{
-background-color: #f2ce79;
+background-color: #ff9f85 ; 
 }
 
 main {
@@ -81,7 +81,7 @@ body {
 
 @media screen and (min-width: 800px) {
 body {
-  background-color: #fac8f5
+  background-color: #f2ce79
   }
   nav li {
     width: 25%;
