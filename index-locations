@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Best Oldies Album Openers </title>
+     <link rel="stylesheet" href="css/styles-list.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Roboto+Slab:wght@100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <center>
+<nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a class="active" href="index-list.html">Best Oldies Album Openers</a></li>
+      </ul>
+    </nav>
+<main>
+    <h1> 7 Study-Friendly Coffee Shops in Columbia </h1>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet">
+    <p> Are you a student looking for a coffee shop to study at, but you’re not sure where to begin? Look no 
+further! This page provides a list of study-friendly coffee shops for students in Columbia. Whether you’re searching for a spot that offers food, or you’re sick of being indoors and want to study somewhere with outdoor seating, there’s a java shop catered to your needs.
+ </p>
+        
+<h2> Acola Coffee Company </h2>
+        <p>300 N 10th St Suite 100
+Columbia, MO
+65201
+<a href="tel:+15734478050">(573) 447-8050
+</a>
+http://www.acolacoffee.com
+
+Acola Coffee Company offers three stories of study spots, outdoor seating, and a crepery for students looking to snack while studying.
+</p>
+         <p><a href="https://a.co/d/en0FjPJ">Get "Abbey Road"</a></p>
+        <div class="picture-centered-text">
+        <img src="img/abbey-road.jpeg"
+        alt="Abbey Road album cover"
+        border="0"
+        width="400"
+        height="400">
+<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras congue lorem mattis gravida condimentum. Nam semper ullamcorper dolor sit amet posuere. Morbi viverra fringilla sapien quis tincidunt. Aliquam cursus, quam sit amet dignissim eleifend, diam ipsum convallis massa, at luctus metus nulla sed risus. </p>    
+
+<h2> Tiny Dancer </h2>
+        <p>By Elton John, Opener for Madman Across the Water </p>
+         <p><a href="https://www.amazon.com/Elton-John-Madman-Across-Water/dp/B000001EGC">Get "Madman Across the Water"</a></p>
+        <div class="picture-centered-text">
+        <img src="img/madman.jpeg"
+        alt="Madman Across the Water album cover"
+        border="0"
+        width="400"
+        height="400">
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras congue lorem mattis gravida condimentum. Nam semper ullamcorper dolor sit amet posuere. Morbi viverra fringilla sapien quis tincidunt. Aliquam cursus, quam sit amet dignissim eleifend, diam ipsum convallis massa, at luctus metus nulla sed risus. </p>
+
+<h2> We Will Rock You </h2>
+        <p>By Queen, Opener for News of the World</p>
+         <p><a href="https://www.amazon.com/News-Of-The-World/dp/B0042WTAMQ">Get "News of the World"</a></p>
+        <div class="picture-centered-text">
+        <img src="img/news-of-the-world.jpeg"
+        alt="News of the World album cover"
+        border="0"
+        width="400"
+        height="400">
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras congue lorem mattis gravida condimentum. Nam semper ullamcorper dolor sit amet posuere. Morbi viverra fringilla sapien quis tincidunt. Aliquam cursus, quam sit amet dignissim eleifend, diam ipsum convallis massa, at luctus metus nulla sed risus. </p>
+
+<h2> Let's Groove </h2>
+        <p>By Earth, Wind, & Fire, Opener for Raise!</p>
+         <p><a href="https://www.amazon.com/EARTH-groove-version-single-13-1679/dp/B015FK4A8W/ref=sr_1_6?dib=eyJ2IjoiMSJ9.TzXVHPBuwNh-PbdpvgVJ-w8ecaih42kFBNRIdWDDHO6NA1ckVQ_alsmznF_8QBMqpBo-iRZtnCBszlktTGivXa8o4qtlt9949JKL45YNIUeL_sQe2Rm5-uSFNoE-9umgnUUxYOAUVg0zautyjEt5g6pjTE-GpKqvLhxMhk6Oti2Oz-zkCg6aYceu05oLHMZttHASeErRa7e0DapAf97WUyS_y_mgn3J5HSe_xUzmz2U.37kqAC9Csids6d79HBXEUhoZ9twS972miQYkxXttFfs&dib_tag=se&keywords=let%27s+groove+earth+wind+and+fire&qid=1727813861&sr=8-6">Get "Raise!"</a></p>
+        <div class="picture-centered-text">
+        <img src="img/raise.jpeg"
+        alt="Raise album cover"
+        border="0"
+        width="400"
+        height="400">
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras congue lorem mattis gravida condimentum. Nam semper ullamcorper dolor sit amet posuere. Morbi viverra fringilla sapien quis tincidunt. Aliquam cursus, quam sit amet dignissim eleifend, diam ipsum convallis massa, at luctus metus nulla sed risus. </p>
+
+<h2> Welcome to the Music </h2>
+        <p>By Bread, Opener for Guitar Man</p>
+         <p><a href="https://www.amazon.com/Guitar-Man-Bread/dp/B000002H7Y">Get "Guitar Man"</a></p>
+        <div class="picture-centered-text">
+        <img src="img/guitar-man.jpeg"
+        alt="Guitar Man album cover"
+        border="0"
+        width="400"
+        height="400">
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras congue lorem mattis gravida condimentum. Nam semper ullamcorper dolor sit amet posuere. Morbi viverra fringilla sapien quis tincidunt. Aliquam cursus, quam sit amet dignissim eleifend, diam ipsum convallis massa, at luctus metus nulla sed risus. </p>
+
+<h2> Whole Lotta Love </h2>
+        <p>By Led Zeppelin, Opener for Led Zeppelin II</p>
+         <p><a href="https://www.amazon.com/Led-Zeppelin-II-Deluxe-CD/dp/B00IXHBS6M">Get "Led Zeppelin II"</a></p>
+        <div class="picture-centered-text">
+        <img src="img/led-zeppelin.jpeg"
+        alt="Led Zeppelin II album cover"
+        border="0"
+        width="400"
+        height="400">
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras congue lorem mattis gravida condimentum. Nam semper ullamcorper dolor sit amet posuere. Morbi viverra fringilla sapien quis tincidunt. Aliquam cursus, quam sit amet dignissim eleifend, diam ipsum convallis massa, at luctus metus nulla sed risus. </p>
+
+<h2> Movin’ Out (Anthony's Song) </h2>
+        <p>By Billy Joel, Opener for The Stranger</p>
+         <p><a href="https://www.amazon.com/Stranger-Billy-Joel/dp/B00000DCHC">Get "Led Zeppelin II"</a></p>
+        <div class="picture-centered-text">
+        <img src="img/the-stranger.jpeg"
+        alt="The Stranger album cover"
+        border="0"
+        width="400"
+        height="400">
+    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras congue lorem mattis gravida condimentum. Nam semper ullamcorper dolor sit amet posuere. Morbi viverra fringilla sapien quis tincidunt. Aliquam cursus, quam sit amet dignissim eleifend, diam ipsum convallis massa, at luctus metus nulla sed risus. </p>
+     
+            
+</a>
+            
+</main>
+</body>
+<footer>Halle Paulus, 2024 &copy; All album cover images come from Amazon.</footer>  
+</html>
