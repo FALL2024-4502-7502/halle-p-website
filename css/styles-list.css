@@ -28,7 +28,7 @@ nav li, nav li a {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 1 rem;
+  font-size: 5rem;
 }
 nav ul {
     display: flex;
