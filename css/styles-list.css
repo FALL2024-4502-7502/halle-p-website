@@ -28,7 +28,7 @@ nav li, nav li a {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 nav ul {
     display: flex;
@@ -86,7 +86,6 @@ body {
   }
   nav li {
     width: 25%;
-    font-size: 5rem;
 }
 
 footer {
