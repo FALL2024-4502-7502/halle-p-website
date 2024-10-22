@@ -32,7 +32,7 @@ nav li, nav li a {
 }
 nav ul {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     flex-wrap: wrap;
   }
 
