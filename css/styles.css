@@ -35,6 +35,7 @@ nav ul {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
+    justify-content: center;
   }
 
   nav li {
