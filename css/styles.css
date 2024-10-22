@@ -69,7 +69,7 @@ ul {
 /*start of media queries*/
 @media screen and (min-width: 555px) {
 body {
-  background-color: #f57f45
+  background-color: #accf82
   }
   nav ul {
     display: flex;
