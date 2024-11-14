@@ -96,41 +96,13 @@ button {
 }
 
 .button-start {
-/*	background-color: forestgreen;*/
-}
-
-.gallery-image {
-	max-width: 80%;
-
-}
-
-.gallery-image img {
-	width: 100%;
-}
+/*	background-color: cream;*/
 
 .hideThis {
 	display: none;
 }
 
-example-image {
-	display: flex;
-	flex-direction: column;
-	margin: 3rem;
 
-}
-
-.example-image img {
-	display: flex;
-  	max-width:230px;
-  	max-height:95px;
- 	width: auto;
-  	height: auto;
-  	margin: 1rem;
-}
-
-.listings2 {
-	display: flex;
-	flex-wrap: wrap;
 }
 /*start of media queries*/
 @media screen and (min-width: 555px) {
