@@ -1,1 +1,103 @@
+body{
+background-color: #f25771 ; 
+}
 
+main {
+  width: 90%;
+  max-width: 1000px;
+  background: #FFF;
+  border-radius: 1rem;
+  padding: 1rem 2rem;
+  box-sizing: border-box;
+  margin: 1rem auto;
+}
+nav {
+  color: #FFF;
+  background-color: #000000;
+  padding: 5px;
+  display: block;
+  margin: 0;
+  border-bottom: 3px solid #FFF;
+  max-width
+}
+nav a {
+  color: #FFF;
+}
+nav li, nav li a {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  font-size: 1.2rem;
+}
+nav ul {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+
+  nav li {
+    width: 50%;
+  }
+
+h1{
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+h2{
+ font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h3{
+ font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+p{
+font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+ul {
+  list-style-type: none;
+}
+/*start of media queries*/
+@media screen and (min-width: 555px) {
+body {
+  background-color: #f57f45
+  }
+  nav ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  nav li {
+    width: 20%;
+  }
+
+@media screen and (min-width: 800px) {
+body {
+  background-color: #f2ce79
+  }
+  nav li {
+    width: 20%;
+}
+
+footer {
+  background: #000;
+  color: #FFF;
+  width: 100%;
+  margin: 0;
+  padding: 1rem;
+  box-sizing: border-box;
+  text-align: center;
+  font-weight: normal;
+}
+}
