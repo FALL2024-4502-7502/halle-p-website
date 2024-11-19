@@ -1,3 +1,25 @@
+.skip-link {
+  position: absolute;
+  top: -3em;
+  background: #fff;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  border: 0;
+}
+
+.skip-link:focus{
+  top: 0;
+  width: unset;
+  height: unset;
+  position: relative;
+  padding: unset;
+  margin: unset;
+  font-size: 2rem;
+}
+
 body{
 background-color: #f25771 ; 
 }
