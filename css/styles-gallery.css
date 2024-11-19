@@ -11,6 +11,7 @@
 }
 
 .skip-link:focus{
+  top: 0;
   width: unset;
   height: unset;
   position: relative;
