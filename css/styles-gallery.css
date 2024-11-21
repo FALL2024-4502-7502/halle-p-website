@@ -28,7 +28,6 @@ nav {
   display: block;
   margin: 0;
   border-bottom: 3px solid #FFF;
-  max-width
 }
 nav a {
   color: #FFF;
@@ -37,7 +36,7 @@ nav li, nav li a {
   width: 100%;
   text-align: center;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
   font-size: 1.2rem;
 }
@@ -48,7 +47,7 @@ nav ul {
   }
 
   nav li {
-    width: 50%;
+    width: 20%;
   }
 
 h1{
