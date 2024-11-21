@@ -9,7 +9,7 @@
 }
 
 body{
-background-color: #f25771 ; 
+background-color: #edc9a6 ; 
 }
 
 main {
@@ -75,79 +75,10 @@ font-family: "Roboto Slab", serif;
 ul {
   list-style-type: none;
 }
-
-/*Photo gallery css for gallery-test*/
-
-.gallery-example {
-	display: flex;
-	flex-direction: column;
-	justify-content: space-between;
-	align-items: center;
-}
-
-.button_holder {
-	display: flex;
-	flex-direction: row;
-	align-items: center;
-}
-
-button_next {  }
-button_previous {  }
-
-.stepper {  }
-
-button {
-	background-color: #658394;
-	margin: 1rem;
-	padding: 1rem;
-	min-width: 10rem;
-	font-size: 1.2rem;
-	border-radius: 0.5rem;
-	align-items: center;
-}
-
-.button-start {
-/*	background-color: cream;*/
-
-}
-.gallery-image {
-	max-width: 80%;
-
-}
-
-.gallery-image img {
-	width: 100%;
-}
-
-.hideThis {
-	display: none;
-}
-
-example-image {
-	display: flex;
-	flex-direction: column;
-	margin: 3rem;
-
-}
-
-.example-image img {
-	display: flex;
-  	max-width:230px;
-  	max-height:95px;
- 	width: auto;
-  	height: auto;
-  	margin: 1rem;
-}
-
-.listings2 {
-	display: flex;
-	flex-wrap: wrap;
-}
-}
 /*start of media queries*/
 @media screen and (min-width: 555px) {
 body {
-  background-color: #f57f45
+  background-color: #c49c76
   }
   nav ul {
     display: flex;
@@ -162,7 +93,7 @@ body {
 
 @media screen and (min-width: 800px) {
 body {
-  background-color: #f2ce79
+  background-color: #99776e
   }
   nav li {
     width: 20%;
