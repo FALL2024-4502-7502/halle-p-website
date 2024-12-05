@@ -159,14 +159,14 @@ example-image {
   }
 
   nav li {
-    width: 50%;
+    width: 20%;
   }
 }
 
 /*start of media queries*/
 @media screen and (min-width: 555px) {
 body {
-  background-color: #c49c76
+  background-color: #f57f45
   }
   nav ul {
     display: flex;
@@ -181,7 +181,7 @@ body {
 
 @media screen and (min-width: 800px) {
 body {
-  background-color: #99776e
+  background-color: #f2ce79
   }
   nav li {
     width: 20%;
