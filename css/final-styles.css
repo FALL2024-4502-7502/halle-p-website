@@ -149,7 +149,7 @@ example-image {
 /*start of media queries*/
 @media screen and (min-width: 555px) {
   body {
-    background-color: #f57f45; /* orange */
+    background-color: #f57f45 !important; /* orange */
   }
   nav ul {
     display: flex;
