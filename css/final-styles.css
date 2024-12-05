@@ -145,23 +145,6 @@ example-image {
 	flex-wrap: wrap;
 }
 }
-/*start of media queries*/
-@media screen and (min-width: 555px) {
-  body {
-    background-color: #f57f45;
-  }
-  
-  nav ul {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-
-  nav li {
-    width: 20%;
-  }
-}
 
 /*start of media queries*/
 @media screen and (min-width: 555px) {
