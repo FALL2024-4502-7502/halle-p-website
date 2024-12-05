@@ -148,8 +148,8 @@ example-image {
 
 /*start of media queries*/
 @media screen and (min-width: 555px) {
-body {
-  background-color: #f57f45;
+  body {
+    background-color: #f57f45; /* orange */
   }
   nav ul {
     display: flex;
@@ -161,24 +161,24 @@ body {
   nav li {
     width: 20%;
   }
-}
+} 
 
 @media screen and (min-width: 800px) {
-body {
-  background-color: #f2ce79;
+  body {
+    background-color: #f2ce79; /* yellow */
   }
   nav li {
     width: 20%;
-}
+  }
 
-footer {
-  background: #000;
-  color: #FFF;
-  width: 100%;
-  margin: 0;
-  padding: 1rem;
-  box-sizing: border-box;
-  text-align: center;
-  font-weight: normal;
-}
+  footer {
+    background: #000;
+    color: #FFF;
+    width: 100%;
+    margin: 0;
+    padding: 1rem;
+    box-sizing: border-box;
+    text-align: center;
+    font-weight: normal;
+  }
 }
