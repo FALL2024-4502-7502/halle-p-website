@@ -146,7 +146,7 @@ example-image {
 }
 }
 /*start of media queries*/
-@media screen and (min-width: 555px) and (max-width: 799px) {
+@media screen and (min-width: 555px) {
   body {
     background-color: #f57f45;
   }
