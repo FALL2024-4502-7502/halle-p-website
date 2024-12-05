@@ -163,23 +163,38 @@ example-image {
   }
 }
 
-@media screen and (min-width: 800px) {
-  body {
-    background-color: #f2ce79; 
+/*start of media queries*/
+@media screen and (min-width: 555px) {
+body {
+  background-color: #c49c76
   }
-  
+  nav ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
   nav li {
     width: 20%;
   }
 
-  footer {
-    background: #000;
-    color: #FFF;
-    width: 100%;
-    margin: 0;
-    padding: 1rem;
-    box-sizing: border-box;
-    text-align: center;
-    font-weight: normal;
+@media screen and (min-width: 800px) {
+body {
+  background-color: #99776e
   }
+  nav li {
+    width: 20%;
+}
+
+footer {
+  background: #000;
+  color: #FFF;
+  width: 100%;
+  margin: 0;
+  padding: 1rem;
+  box-sizing: border-box;
+  text-align: center;
+  font-weight: normal;
+}
 }
