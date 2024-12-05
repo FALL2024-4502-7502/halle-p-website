@@ -9,7 +9,7 @@
 }
 
 body{
-background-color: #f25771 ; 
+background-color: #f25771; 
 }
 
 main {
@@ -146,7 +146,7 @@ example-image {
 }
 }
 /*start of media queries*/
-@media screen and (min-width: 555px) {
+@media screen and (min-width: 555px) and (max-width: 799px) {
   body {
     background-color: #f57f45;
   }
@@ -165,7 +165,7 @@ example-image {
 
 @media screen and (min-width: 800px) {
   body {
-    background-color: #f2ce79;
+    background-color: #f2ce79; 
   }
   
   nav li {
@@ -183,4 +183,3 @@ example-image {
     font-weight: normal;
   }
 }
-
